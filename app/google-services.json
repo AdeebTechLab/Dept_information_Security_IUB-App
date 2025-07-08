@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039785007261",
+    "firebase_url": "https://bsis-class-iub-default-rtdb.firebaseio.com",
+    "project_id": "bsis-class-iub",
+    "storage_bucket": "bsis-class-iub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039785007261:android:87f25caf0e2be1c58c5c74",
+        "android_client_info": {
+          "package_name": "com.AdeebTechLab.BsISClass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039785007261-5bgang8rmc70r8u5t8q1vh8k87rt1aht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AdeebTechLab.BsISClass",
+            "certificate_hash": "e9c0befbe49759af2c5ddccdbb9969cf518844cd"
+          }
+        },
+        {
+          "client_id": "1039785007261-e7hd4s8rphc086p1l1mnssoa8cahcm37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh53isyk32QkrAqSe72r-P1ajmSjfxOTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039785007261-e7hd4s8rphc086p1l1mnssoa8cahcm37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

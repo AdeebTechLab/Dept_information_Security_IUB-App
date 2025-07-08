@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Button2" type="id" />
+    <item name="Button3" type="id" />
+    <item name="Button4" type="id" />
+    <item name="Button5" type="id" />
+    <item name="Button6" type="id" />
+    <item name="Button7" type="id" />
+    <item name="Button8" type="id" />
+    <item name="Button9" type="id" />
+    <item name="Button10" type="id" />
+    <item name="Button11" type="id" />
+    <item name="Button12" type="id" />
+    <item name="Button13" type="id" />
+    <item name="Button14" type="id" />
+    <item name="button1" type="id" />
+</resources>
